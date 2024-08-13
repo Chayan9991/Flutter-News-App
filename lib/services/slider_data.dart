@@ -1,4 +1,5 @@
-import 'package:news_api_app/pages/model/slider_model.dart';
+import 'package:news_api_app/model/slider_model.dart';
+
 
 List<SliderModel> getSliderData(){
   List<SliderModel> sliderList = [

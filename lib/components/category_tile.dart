@@ -27,7 +27,7 @@ class CategoryTile extends StatelessWidget {
             decoration: BoxDecoration(
               color: Colors.black38, // Set the background color here
               borderRadius:
-              BorderRadius.circular(8), // Adjust the radius as needed
+                  BorderRadius.circular(8), // Adjust the radius as needed
             ),
             child: Center(
               child: Text(
